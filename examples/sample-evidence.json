@@ -1,0 +1,325 @@
+{
+  "job": {
+    "id": "6acdbfb1aaddb7eaed95a943",
+    "endpoint": "google-shopping-product",
+    "queue": "live",
+    "status": "completed",
+    "params": {
+      "product_id": "11726664398501807381",
+      "country": "us",
+      "language": "en"
+    },
+    "credits": 1,
+    "latencyMs": 23383,
+    "error": null,
+    "createdAt": "2026-10-13T05:20:49.492Z",
+    "completedAt": "2026-10-13T05:21:12.959Z"
+  },
+  "result": {
+    "search_parameters": {
+      "engine": "google_shopping_product",
+      "product_id": "11726664398501807381",
+      "country": "us",
+      "language": "en"
+    },
+    "product": {
+      "product_id": "11726664398501807381",
+      "title": "Sony WH-1000XM5 Noise Canceling Wireless Headphones",
+      "brand": "Sony",
+      "description": "Active Noise Cancelation From airplane noise to people’s voices, our WH-1000XM5 wireless headphones with multiple microphone noise canceling keep out more high and mid frequency sounds than ever. Magnificent sound, engineered to perfection The light and rigid precision-engineered driver unit improves high frequency sensitivity for more natural sound quality. Crystal clear hands-free calling With Precise Voice Pickup Technology and advanced audio signal processing, the person on the other end of the call will hear your voice clearly, even when you are in noisy situations. All day power and quick charging With up to 30 hours of battery life, you’ll have enough power even for long trips. If you need to charge in a hurry, you can get 3 hours' worth of charge after just 3 minutes with an additional USB- PD compatible AC adapter. All day comfort with an elegant design These lightweight headphones are beautifully finished in newly developed soft fit leather. This material fits snugly around the head with less pressure on the ears while keeping out external sounds. Multipoint connection For total convenience, these Bluetooth headphones can be paired with two Bluetooth devices at the same time. So when a call comes in, your headphones know which device is ringing and connects to the right one automatically. Speak to Chat As soon as you start a conversation, Speak-to-Chat automatically stops your music and lets in ambient sound – handy if you want to keep your headphones on or talk hands-free. Collapsible case saves space Carry your headphones effortlessly in the redesigned case. Instant pause. Instant play. Just take the headphones off and the music stops – a capacitive sensor knows when you are wearing them. It also helps improve detection accuracy and design. Put the headphones back on and the music starts again.",
+      "rating": 4.6,
+      "reviews": null,
+      "images": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSzr_q3j-ZwQifwN--xIbwYJVhAdgmoQZOFJXZwvhUAa-Yb-IMkJzdKbLNNDRJsgVif8T3LdhDHL3MkySZGdqPIdaHqqcVs",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT17u_j8ktdygWnhiL357oZuyJewXdjWAjG3cY5wTSa2m6oMt0Cfwv8foikQ7Woryp-u3dzXG21ml_Annm2BT-u5jy0qM-UIAA3KJF0BdTDRrm_yrdNyA",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTT3PHD0tUNFjjErE29yaBw3nGrnIc58oFceislLK1SSMT6vsVYcHKaa06SXaRLZVGy9KYPpbUHe3tEYGUE6K11j_mFWaFMkim2123w9NUCcSRg9nu8Wfc",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkjHgxTm-E6UbgS0zYmG9oBI1EcHu-_DaGUKaKCeUdPPORGg-FNODdLRjiGzRtH79uF8CsUqu6wSAiQei9CHXe0DAe3dRS-rXBGcmhfPApq29whk5_WV4",
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwOD1dV1P90CrR-iwcE0u99e-qUrug0s6sMKXLCevHo8lN0YBVGBuICoWCuNC-OItfNZ5-TSv0z3Ef7_nCa8X3TovboVCc92ru8fjkcQ",
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTUaUkMOZcp0ZiBGMqf0agrlrcR9f7PyM4Kiz5Ek_jsLGMFiI7NS71BfotGxw3ZK1E0ZJya9SF1KTfzYK76QcmydrmnL0l-WJ9IQoW7YA",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-K2s5LMvo3PhQAoL2TGUd3nALD8lOwDijvy7zBjgmuxcLkD-lFzo2z768dpUF58Z5alzGn59CE5UlJUmMUoH6_fGuoQSaSYZj8kCmEg",
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTPGvXAaVBnQ3g-ftSSaZHVeleiyHQ7ydRJzn12D3q20DTicoeEq6TivkwvnzhSESHgFooTmKTPlPoiQna-R9xFdPWgS-e-4TpTIUD2sQ",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSIhvFI-7-yKIVr7bzfc4gB37GbjUgvASbTON6DKVkQghlEilJt2-Ewqdh5dP4Dz4rnMQoHGPWJxHp3TVMm2ozGbJD6g0bTlnc_QpLUAw",
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSHIcbOrrrQcQqcAFoIV-2lmDtBivwmA0HRpkyud3uuQ8EBaCXzQiJpsQMLha1eVOBqjw0czSLnPPpCU0DWWVyAz5BptuYAwV9UnBnR"
+      ],
+      "price_range": {
+        "min": {
+          "value": 228,
+          "currency": "USD",
+          "raw": "228.00 USD"
+        },
+        "max": {
+          "value": 399.99,
+          "currency": "USD",
+          "raw": "399.99 USD"
+        }
+      },
+      "specs": {
+        "Brand": "Sony",
+        "Noise Canceling": "Yes",
+        "With Microphone": "Yes",
+        "Color": "Midnight Blue, Smoky Pink",
+        "Style": "On-ear",
+        "Headset": "Yes",
+        "Wireless Type": "Bluetooth",
+        "Over-ear": "Yes",
+        "Assistant Support": "Google Assistant, Amazon Alexa",
+        "Height": "2.7″ tall",
+        "Width": "8.5″ wide",
+        "Max Battery Life": "30 hours"
+      }
+    },
+    "sellers_count": 10,
+    "sellers": [
+      {
+        "position": 1,
+        "merchant": "Best Buy",
+        "merchant_rating": 4.6,
+        "offer_title": "Sony - WH-1000XM5 Wireless Noise Cancelling Over-the-Ear Headphones - Black",
+        "price": {
+          "value": 228,
+          "currency": "USD",
+          "raw": "228.00 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 228,
+          "currency": "USD",
+          "raw": "228.00 USD"
+        },
+        "delivery": "Free delivery by October 20",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      },
+      {
+        "position": 2,
+        "merchant": "Walmart",
+        "merchant_rating": 4.3,
+        "offer_title": "Sony Wh-1000xm5 The Best Wireless Noise Canceling Headphones, Black, Size: 12x8x4",
+        "price": {
+          "value": 248,
+          "currency": "USD",
+          "raw": "248.00 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 248,
+          "currency": "USD",
+          "raw": "248.00 USD"
+        },
+        "delivery": "Free delivery",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      },
+      {
+        "position": 3,
+        "merchant": "Newegg.com - Sybershop",
+        "merchant_rating": null,
+        "offer_title": "Sony - WH1000XM5 Wireless Noise-Canceling Over-the-Ear Headphones - Black (WH1000XM5/B)",
+        "price": {
+          "value": 279,
+          "currency": "USD",
+          "raw": "279.00 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 279,
+          "currency": "USD",
+          "raw": "279.00 USD"
+        },
+        "delivery": "Free delivery",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      },
+      {
+        "position": 4,
+        "merchant": "B&H Photo-Video-Audio",
+        "merchant_rating": 4.9,
+        "offer_title": "Sony WH-1000XM5 Noise-Canceling Wireless Over-Ear Headphones (Black)",
+        "price": {
+          "value": 298,
+          "currency": "USD",
+          "raw": "298.00 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 298,
+          "currency": "USD",
+          "raw": "298.00 USD"
+        },
+        "delivery": "Free delivery between Wednesday - Thursday",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      },
+      {
+        "position": 5,
+        "merchant": "Sony",
+        "merchant_rating": 4.8,
+        "offer_title": "Sony WH-1000XM5 Premium Wireless Noise Cancelling Headphones Black",
+        "price": {
+          "value": 299.99,
+          "currency": "USD",
+          "raw": "299.99 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 299.99,
+          "currency": "USD",
+          "raw": "299.99 USD"
+        },
+        "delivery": "Free delivery between Wednesday - Thursday",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      },
+      {
+        "position": 6,
+        "merchant": "Sweetwater",
+        "merchant_rating": 4.9,
+        "offer_title": "Sony WH-1000XM5 Wireless Noise-canceling Headphones - Black",
+        "price": {
+          "value": 398,
+          "currency": "USD",
+          "raw": "398.00 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 398,
+          "currency": "USD",
+          "raw": "398.00 USD"
+        },
+        "delivery": "Free delivery by Monday",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      },
+      {
+        "position": 7,
+        "merchant": "Crutchfield",
+        "merchant_rating": 4.8,
+        "offer_title": "Sony WH-1000XM5 Over-ear Bluetooth wireless noise-canceling headphones - Black",
+        "price": {
+          "value": 398,
+          "currency": "USD",
+          "raw": "398.00 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 398,
+          "currency": "USD",
+          "raw": "398.00 USD"
+        },
+        "delivery": "Free delivery",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      },
+      {
+        "position": 8,
+        "merchant": "Target",
+        "merchant_rating": 4.5,
+        "offer_title": "Sony WH-1000XM5 Bluetooth Wireless Noise-Canceling Headphones - Smoky Pink",
+        "price": {
+          "value": 398.99,
+          "currency": "USD",
+          "raw": "398.99 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 398.99,
+          "currency": "USD",
+          "raw": "398.99 USD"
+        },
+        "delivery": "Free delivery between Thursday - Monday",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      },
+      {
+        "position": 9,
+        "merchant": "PC Richard & Son",
+        "merchant_rating": 4.5,
+        "offer_title": "Sony - WH-1000XM5 Wireless Noise-Canceling Over-the-Ear Headphones Black | WH1000XM5-B | P.C. Richard & Son",
+        "price": {
+          "value": 399.95,
+          "currency": "USD",
+          "raw": "399.95 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 399.95,
+          "currency": "USD",
+          "raw": "399.95 USD"
+        },
+        "delivery": "Free delivery between October 15 – 21",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      },
+      {
+        "position": 10,
+        "merchant": "Verizon",
+        "merchant_rating": 3.9,
+        "offer_title": "Sony Wireless Noise Canceling Over the Ear Headphones Black | Verizon",
+        "price": {
+          "value": 399.99,
+          "currency": "USD",
+          "raw": "399.99 USD"
+        },
+        "shipping": {
+          "value": 0,
+          "currency": "USD",
+          "raw": "0.00 USD"
+        },
+        "total_price": {
+          "value": 399.99,
+          "currency": "USD",
+          "raw": "399.99 USD"
+        },
+        "delivery": "Free delivery between October 16 – 20",
+        "availability": "In Stock",
+        "returns": null,
+        "link": null
+      }
+    ]
+  }
+}
